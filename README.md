@@ -1,6 +1,6 @@
 # SQLite
 <p>Use SQLite Database to save data.<br>
-Simple exemple for beginners to use SQLite Database<br>
+Simple exemple for beginners to use SQLite Database.<br>
 This exemple contains :</p>
 <ul>
 	<li>Add user</li>
